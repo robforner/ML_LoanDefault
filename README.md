@@ -1,6 +1,6 @@
 # **LOAN DEFAULT MACHINE LEARNING PROJECT**
 
-In this project, the aim is to predict bank customer defaults (label 0: Non-Default, label 1: Default) depending on a plethora of features. In this process, I would like to both achieve the highest accuracy possible, the lowest recall possible on Customer defaults, while also understanding the main features that can lead to a customer default. To achieve both of our goals, I decided to follow this pipeline:
+In this project, the aim is to predict bank customer defaults (label 0: Non-Default, label 1: Default) depending on a plethora of features. In this process, I would like to both achieve the highest accuracy possible, the lowest recall possible on Customer defaults, while also understanding the main features that can lead to a customer default. To achieve both of my goals, I decided to follow this pipeline:
 
 - Understand our independent features, as well as our target variable.
 - Prepare and process our dataset.
