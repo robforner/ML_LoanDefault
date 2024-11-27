@@ -1,4 +1,4 @@
-**LOAN DEFAULT MACHINE LEARNING PROJECT**
+# **LOAN DEFAULT MACHINE LEARNING PROJECT**
 
 In this project, the aim is to predict bank customer defaults (label 0: Non-Default, label 1: Default) depending on a plethora of features. In this process, we would like to both achieve the highest accuracy possible, the lowest recall possible on Customer defaults, while also understanding the main features that can lead to a customer default. To achieve both of our goals, I decided to follow this pipeline:
 
@@ -7,7 +7,7 @@ In this project, the aim is to predict bank customer defaults (label 0: Non-Defa
 - Feature Engineering.
 - Machine Learning Models, Hyperparameter tunning, and Evaluation.
 
-**Table of content for Jupyter Notebook**
+## **Table of content for Jupyter Notebook**
 
 1. Data Loading and Exploratory Data Analysis
 2. Investigating Missing Values
